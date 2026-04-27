@@ -12,25 +12,28 @@ layout: default
 
 # First Histogram
 
-![Histogram: oh_effective](oh_effective.png)
+<!-- ![Histogram: oh_effective](oh_effective.png) -->
+<img src="static/imgs/image.png" alt="Histogram: oh_effective. "  width="500"/>
 
 # Second Histogram
 
-![Histogram: understanding](image-1.png)
+<!-- ![Histogram: understanding](image-1.png) -->
+<img src="static/imgs/image-1.png" alt="Historgam: understanding. "  width="500"/>
 
 # Scatterplot
 
-![Scatterplot](image-2.png)
+<!-- ![Scatterplot](image-2.png) -->
+<img src="static/imgs/image-2.png" alt="Scatterplot. "  width="500"/>
 
 # Barplot
 
-![Barplot](image-3.png)
-
+<!-- ![Barplot](image-3.png) -->
+<img src="static/imgs/image-3.png" alt="Barplot. "  width="500"/>
 
 
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 # Conclusion
 
